@@ -6,4 +6,4 @@ use:
 or  python3 line_number.py
 the tool will ask you the filename
 
-its a simple tool and easy to use
+its a simple tool and easy to use.
